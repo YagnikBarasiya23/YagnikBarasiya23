@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="t d">
+  <title id="t">Yagnik Barasiya</title>
+  <desc id="d">Mobile and full-stack developer. Flutter, Next.js, Node.js.</desc>
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="40%" r="75%">
+      <stop offset="0" stop-color="#232323"/>
+      <stop offset=".55" stop-color="#0c0c0c"/>
+      <stop offset="1" stop-color="#000"/>
+    </radialGradient>
+    <linearGradient id="silver" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset=".55" stop-color="#d1d5db"/>
+      <stop offset="1" stop-color="#3f3f46"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#fff" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="name"><text x="640" y="196" text-anchor="middle" class="name">YAGNIK BARASIYA</text></clipPath>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#fff" stroke-opacity=".035"/>
+    </pattern>
+  </defs>
+  <style>
+    .name{font:900 104px 'Inter','Helvetica Neue',Arial,sans-serif;letter-spacing:-5px}
+    .role{font:italic 300 30px 'Georgia','Times New Roman',serif;fill:#e4e4e7}
+    .role b{font-weight:700}
+    .meta{font:600 13px 'Inter','Helvetica Neue',Arial,sans-serif;letter-spacing:4.5px;fill:#71717a}
+    .rise{animation:rise 1.1s cubic-bezier(.16,1,.3,1) both}
+    .d1{animation-delay:.15s}.d2{animation-delay:.35s}.d3{animation-delay:.55s}
+    .sweep{animation:sweep 5.5s ease-in-out 1.2s infinite}
+    @keyframes rise{from{opacity:0;transform:translateY(24px)}to{opacity:1;transform:none}}
+    @keyframes sweep{0%{transform:translateX(-420px)}45%,100%{transform:translateX(1500px)}}
+    @media (prefers-reduced-motion:reduce){.rise,.sweep{animation:none}}
+  </style>
+  <rect width="1280" height="360" rx="24" fill="url(#bg)"/>
+  <rect width="1280" height="360" rx="24" fill="url(#grid)"/>
+  <rect x=".5" y=".5" width="1279" height="359" rx="23.5" fill="none" stroke="#fff" stroke-opacity=".1"/>
+  <g class="rise">
+    <text x="640" y="88" text-anchor="middle" class="meta">MOBILE · WEB · BACKEND · OPEN SOURCE</text>
+  </g>
+  <g class="rise d1">
+    <text x="640" y="196" text-anchor="middle" class="name" fill="url(#silver)">YAGNIK BARASIYA</text>
+    <g clip-path="url(#name)"><rect class="sweep" x="0" y="80" width="260" height="140" fill="url(#shine)" transform="translate(-420 0)"/></g>
+  </g>
+  <g class="rise d2">
+    <text x="640" y="250" text-anchor="middle" class="role"><tspan font-style="normal" font-weight="700" font-family="'Inter','Helvetica Neue',Arial,sans-serif">Mobile &amp; Full Stack</tspan> Developer</text>
+  </g>
+  <g class="rise d3">
+    <text x="640" y="307" text-anchor="middle" class="meta" letter-spacing="3">RAJKOT, INDIA · YAGNIKBARASIYA.COM</text>
+  </g>
+</svg>
