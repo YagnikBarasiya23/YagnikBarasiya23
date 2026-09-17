@@ -1,4 +1,4 @@
-<a href="https://www.yagnikbarasiya.com"><img src="assets/banner.svg" alt="Yagnik Barasiya — Mobile &amp; Full Stack Developer" width="100%"></a>
+<a href="https://www.yagnikbarasiya.com"><img src="assets/header.svg" alt="Yagnik Barasiya — Mobile &amp; Full Stack Developer" width="100%"></a>
 
 <p align="center">
   <a href="https://www.yagnikbarasiya.com"><img src="https://img.shields.io/badge/Portfolio-yagnikbarasiya.com-f4f4f5?style=flat-square&labelColor=0a0a0a" alt="Portfolio"></a>
