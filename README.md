@@ -8,7 +8,7 @@
 
 ### Hey, I'm Yagnik.
 
-A mobile & full-stack developer in Rajkot, India, with **3+ years** of experience and **20+ Android and iOS apps** delivered. I build products end to end — polished interfaces, APIs and databases — with **Flutter**, **Next.js**, **Node.js**, **Supabase** and **MongoDB**.
+A mobile & full-stack developer in Rajkot, India, with **3+ years** of experience and **20+ Android and iOS apps** delivered. I build products end to end — polished interfaces, APIs and databases — and turn ideas into products that people can actually use.
 
 - 📱 Cross-platform apps in Flutter, from onboarding and OTP login to camera and AI features
 - 🖥️ SaaS dashboards and motion-led websites in Next.js
