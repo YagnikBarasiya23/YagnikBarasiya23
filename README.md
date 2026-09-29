@@ -94,11 +94,11 @@ Free, MIT-licensed and dependency-free. Each has a live demo, keyboard and scree
       <sub><code>Next.js · FastAPI · Supabase · Gemini</code></sub>
     </td>
     <td width="33%" valign="top">
-      <a href="https://www.yagnikbarasiya.com/work/macrosight"><img src="https://www.yagnikbarasiya.com/images/projects/macrosight-app.jpg" alt="MacroSight" width="100%"></a>
-      <br><b><a href="https://www.yagnikbarasiya.com/work/macrosight">MacroSight</a></b>
-      <br><sub>AI calorie tracker · Flutter app + admin</sub>
-      <p>Photograph a meal for an editable macro estimate, track the day against targets, and see trends.</p>
-      <sub><code>Flutter · Node.js · Supabase · Next.js</code></sub>
+      <a href="https://www.yagnikbarasiya.com/work/inningspro"><img src="https://www.yagnikbarasiya.com/images/projects/inningspro.jpg" alt="InningsPro" width="100%"></a>
+      <br><b><a href="https://www.yagnikbarasiya.com/work/inningspro">InningsPro</a></b>
+      <br><sub>Offline cricket scoring · Flutter app</sub>
+      <p>Set up a match, score every ball with one tap, check the scorecard and share the result — no account, no signal.</p>
+      <sub><code>Flutter · Bloc · Drift · SQLite</code></sub>
     </td>
     <td width="33%" valign="top">
       <a href="https://www.yagnikbarasiya.com/work/fifteen-flowers"><img src="https://www.yagnikbarasiya.com/images/projects/fifteen-flowers.jpg" alt="Fifteen Flowers" width="100%"></a>
