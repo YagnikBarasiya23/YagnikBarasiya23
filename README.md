@@ -90,8 +90,8 @@ Free, MIT-licensed and dependency-free. Each has a live demo, keyboard and scree
       <a href="https://www.yagnikbarasiya.com/work/postspop"><img src="https://www.yagnikbarasiya.com/images/projects/postspop.jpg" alt="PostsPop" width="100%"></a>
       <br><b><a href="https://www.yagnikbarasiya.com/work/postspop">PostsPop</a></b>
       <br><sub>AI marketing platform</sub>
-      <p>A short business brief becomes a seven-day social plan with approvals, a content calendar and an AI caption editor.</p>
-      <sub><code>Next.js · FastAPI · Supabase · Gemini</code></sub>
+      <p>A business brief becomes a seven-day social plan with AI captions and photos, scheduled publishing and AI analytics.</p>
+      <sub><code>Next.js · FastAPI · Supabase · Workers AI</code></sub>
     </td>
     <td width="33%" valign="top">
       <a href="https://www.yagnikbarasiya.com/work/inningspro"><img src="https://www.yagnikbarasiya.com/images/projects/inningspro.jpg" alt="InningsPro" width="100%"></a>
