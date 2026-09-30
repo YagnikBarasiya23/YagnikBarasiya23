@@ -13,7 +13,7 @@ A mobile & full-stack developer in Rajkot, India, with **3+ years** of experienc
 - 📱 Cross-platform apps in Flutter, from onboarding and OTP login to camera and AI features
 - 🖥️ SaaS dashboards and motion-led websites in Next.js
 - ⚙️ REST APIs with Node.js, Express and FastAPI on Supabase, PostgreSQL and MongoDB
-- 🧩 Now: open-sourcing the interface parts I keep rebuilding — [13 so far](#open-source-components)
+- 🧩 Now: open-sourcing the interface parts I keep rebuilding — [15 so far](#open-source-components)
 
 ## Open-source components
 
@@ -97,6 +97,18 @@ Free, MIT-licensed and dependency-free. Each has a live demo, keyboard and scree
       <a href="https://github.com/YagnikBarasiya23/ember_streak"><img src="assets/components/ember_streak.webp" alt="Ember demo" width="100%"></a>
       <br><b><a href="https://github.com/YagnikBarasiya23/ember_streak">Ember</a></b> · Streak counter
       <br><sub>Flutter · <a href="https://yagnikbarasiya23.github.io/ember_streak/">Live demo</a> · <a href="https://www.yagnikbarasiya.com/components/ember_streak">Docs</a></sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/YagnikBarasiya23/orb_voice_visualizer"><img src="assets/components/orb_voice_visualizer.webp" alt="Orb demo" width="100%"></a>
+      <br><b><a href="https://github.com/YagnikBarasiya23/orb_voice_visualizer">Orb</a></b> · Voice agent orb
+      <br><sub>Flutter · <a href="https://yagnikbarasiya23.github.io/orb_voice_visualizer/">Live demo</a> · <a href="https://www.yagnikbarasiya.com/components/orb_voice_visualizer">Docs</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/YagnikBarasiya23/trace_agent_timeline"><img src="assets/components/trace_agent_timeline.webp" alt="Trace demo" width="100%"></a>
+      <br><b><a href="https://github.com/YagnikBarasiya23/trace_agent_timeline">Trace</a></b> · Agent run timeline
+      <br><sub>Flutter · <a href="https://yagnikbarasiya23.github.io/trace_agent_timeline/">Live demo</a> · <a href="https://www.yagnikbarasiya.com/components/trace_agent_timeline">Docs</a></sub>
     </td>
   </tr>
 </table>
